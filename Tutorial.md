@@ -4,7 +4,6 @@ First observation:
 
 After reading the first section of `check_password` seems like (tried half blackbox trial and error) there is a direct correlation between password length and the value in `r12` at the `cmp` line.
 
-
 ### Solution
 Password needs to be 8 characters long.
 ```
