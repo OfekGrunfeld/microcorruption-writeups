@@ -1,5 +1,3 @@
-11:55
-
 At this level, the manual says that the password was removed from memory, but was it removed hard-coded as a string or is there something similar logically which stayed?
 
 Seems like main still works with setting `r15` as 1.

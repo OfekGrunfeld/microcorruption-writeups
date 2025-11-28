@@ -1,5 +1,3 @@
-12:20
-
 At this level, the manual says that the code communicates with an outside module - the `HSM-1`.
 
 I searched for the `HSM-1` in google and found a link to the micocurrption website for a user guide pdf of the `Locktail LockIT Pro` which we are working on.
